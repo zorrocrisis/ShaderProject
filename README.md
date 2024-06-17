@@ -19,7 +19,8 @@ Two different materials were planned to be developed throughout the course of th
 Firstly, what better way to represent Portugal than to develop such a widely known and proudly portuguese material like cork? The goal is to make a stylised/semi-realistic solid material with procedural noise to convey
 the natural look of cork, which happens to be very uneven and rough. Regarding its application, the cork material will be used to make a cork stopper (sometimes simply called “cork”, as well). The following images demonstrate the overall desired look of the material’s surface and its usage in a 3D model of a cork stopper.
 
-![imagem](https://en.wikipedia.org/wiki/File:Cork.jpg)
+![Cork](https://github.com/zorrocrisis/ShaderProject/assets/118909502/ae93e098-e915-406a-bb1e-da4370413358)
+
 ![imagem](https://github.com/zorrocrisis/ShaderProject/assets/118909502/55e3e966-dfe2-4684-88bf-cf8f6934cc67)
 ![imagem](https://github.com/zorrocrisis/ShaderProject/assets/118909502/c530acfd-91ac-4472-b80c-f06f5cc6ae83)
 
