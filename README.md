@@ -37,8 +37,7 @@ Since the project already had a cork stopper, the next logical step was to devel
 
 ![stainless_steel4](https://github.com/zorrocrisis/ShaderProject/assets/118909502/b9675617-58a0-4e39-bacd-a5e726a33b04)
 ![corkscrew(4)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/ff76d9f9-15e6-4636-8d92-0a793817b589)
-![corkscrew_model(5)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/035bbe79-7181-430a-81ba-aabf92104015)
-
+![corkscrew_model(6)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/4d62a34d-d0b1-43d6-b8ea-4b8d15b91fea)
 
 *Images Set 2 – From left to right: [real stainless steel](https://eagletube.com/about-us/news/stainless-steel-characteristics/), [real metallic corkscrew](https://www.theodorebruceauctions.com.au/auction-lot/an-antique-nickel-plate-english-roundlet-travelli_48F4A2EBE9), [3D model with metallic material](https://www.youtube.com/watch?v=NIn421hiFrc)*
 
