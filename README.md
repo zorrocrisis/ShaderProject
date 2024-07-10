@@ -28,7 +28,7 @@ Two different materials were planned to be developed throughout the course of th
 Firstly, what better way to represent my home country of Portugal than to develop such a widely known and proudly portuguese material like cork? The goal was to make a stylised/semi-realistic solid material with procedural noise to convey the natural look of cork, which happens to be very uneven and rough. Regarding its application, the cork material was used to make a cork stopper. The following images demonstrate the overall desired look of the material’s surface and its usage in a 3D model of a cork stopper.
 
 ![Cork](https://github.com/zorrocrisis/ShaderProject/assets/118909502/19f8e0f5-3854-41f1-b2b8-11f824344bdb)
-![cork_stopper(3)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/63d4c269-d953-4526-b223-4e1024c1db70)
+![cork_stopper(4)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/a09e1ad7-f5e7-43d1-ac34-ff7b5538fdfc)
 ![cork_stopper_model(3)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/ecd45a71-8e0c-48f2-92ac-56c460a71123)
 
 *Image Set 1 – From left to right: [real cork material](https://en.wikipedia.org/wiki/Cork_(material)#/media/File:Cork.jpg), real cork stopper, [3D model with procedural noise material](https://sketchfab.com/3d-models/champagne-cork-ab6482bccb084488b8fdaae82d67ce88)*
