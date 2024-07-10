@@ -1,7 +1,9 @@
 ## **Shader Project**
 
 The goal of this shader project was to implement a program capable of showcasing stylised materials and lighting models, similarly to a game engine. 
-IMAGE
+
+
+IMAGE/GIF OF PROGRAM
 
 
 Developed under two weeks, from January 1st to January 15th 2023, this project constituted the final evaluation component of the 2023 edition of the Computer Graphics in Games course, talking place in Instituto Superior Técnico, University of Lisbon.
@@ -63,9 +65,12 @@ E - Snapshot saving of the application to a known image file format
 
 These last three challenges allow the scene to be fully explored and interacted with, going hand in hand to showcase the different techniques implemented and the diversity of the program.
 
+## **Development PLAN?????**
+
+
 ## **Development Details**
 
-
+WIP: LANGUAGE??? OPENGL? OTHER DEPENDENCIE
 
 ## **Authors and Acknowledgment**
 
