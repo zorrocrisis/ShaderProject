@@ -29,7 +29,7 @@ Firstly, what better way to represent my home country of Portugal than to develo
 
 ![Cork](https://github.com/zorrocrisis/ShaderProject/assets/118909502/19f8e0f5-3854-41f1-b2b8-11f824344bdb)
 ![cork_stopper(1)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/181ec530-38c4-4633-a8f7-7131ab2420a5)
-![cork_stopper_model(1)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/62bd1103-8aa9-4dea-a404-5189bdee9381)
+![cork_stopper_model(2)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/c799ce1f-5310-4351-a6a4-90d565d1fe3d)
 
 Image Set 1 – From left to right: [real cork material](https://en.wikipedia.org/wiki/Cork_(material)#/media/File:Cork.jpg), real cork stopper, [3D model with procedural noise material](https://sketchfab.com/3d-models/champagne-cork-ab6482bccb084488b8fdaae82d67ce88).
 
