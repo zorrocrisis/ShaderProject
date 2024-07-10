@@ -31,11 +31,16 @@ Firstly, what better way to represent my home country of Portugal than to develo
 ![cork_stopper_best(4)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/be64cb5d-e031-46f4-8096-fbd5a6a16dbe)
 ![cork_stopper_model(3)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/ecd45a71-8e0c-48f2-92ac-56c460a71123)
 
-*Image Set 1 – From left to right: [real cork material](https://en.wikipedia.org/wiki/Cork_(material)#/media/File:Cork.jpg), real cork stopper, [3D model with procedural noise material](https://sketchfab.com/3d-models/champagne-cork-ab6482bccb084488b8fdaae82d67ce88)*
+*Image Set 1 – From left to right: [real cork material](https://en.wikipedia.org/wiki/Cork_(material)#/media/File:Cork.jpg), [real cork stopper](https://www.corklink.com/index.php/agglomeratdor-natural-corks/), [3D model with procedural noise material](https://sketchfab.com/3d-models/champagne-cork-ab6482bccb084488b8fdaae82d67ce88)*
 
 Since the project already had a cork stopper, the next logical step was to develop a corkscrew! This corkscrew was planned to be mostly made from metal - more specifically, from stainless steel, which is the preferred material for household kitchen appliances, having a characteristic smoothness and shininess which was attempted to be reproduced (in a stylised version). The following images represent visual references for the material and object desired. The image on the far right is in fact a 3D model of a corkscrew, similar to what is proposed to be developed.
 
+![stainless_steel](https://github.com/zorrocrisis/ShaderProject/assets/118909502/d5778f58-24ed-4d80-9d0d-f6feed3f30bf)
+![corkscrew(1)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/042ef02d-bdd9-44b2-9ce4-12d29ed894ae)
+![corkscrew_model(1)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/506aa533-82d3-4dc6-8185-7f8f1effda8c)
 
+
+*Images Set 2 – From left to right: [real stainless steel](https://eagletube.com/about-us/news/stainless-steel-characteristics/), [real metallic corkscrew](https://www.theodorebruceauctions.com.au/auction-lot/an-antique-nickel-plate-english-roundlet-travelli_48F4A2EBE9), [3D model with metallic material](https://www.youtube.com/watch?v=NIn421hiFrc)*
 
 ## **Technical Challenges**
 
