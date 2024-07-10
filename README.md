@@ -37,7 +37,6 @@ Since the project already had a cork stopper, the next logical step was to devel
 
 ![stainless_steel4](https://github.com/zorrocrisis/ShaderProject/assets/118909502/b9675617-58a0-4e39-bacd-a5e726a33b04)
 ![corkscrew(2)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/bd53eb32-a525-4dc5-9d21-5c62e674dec0)
-
 ![corkscrew_model(3)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/f6b5cce4-24ed-4129-9f06-aff9a1825e7f)
 
 
