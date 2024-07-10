@@ -51,7 +51,8 @@ A - A stylised cork **material using procedural noise** - As previously mentione
 B - Non-photorealistic lighting / shading model with silhouette - The main lighting/shading for this project was based on a stylised, non-photorealistic model, namely, the **Cel shading model**. Visual references for the final product were taken from the video game industry and other online models:
 
 ![cel_unreal(1)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/50eef4fe-cf8a-4ff5-a3d8-7bdab07661ae)
-![Using_Toon_05](https://github.com/zorrocrisis/ShaderProject/assets/118909502/7dd7ab68-464d-4ab6-9c03-61feeddf1279)
+![Using_Toon_052](https://github.com/zorrocrisis/ShaderProject/assets/118909502/13de1655-ef18-4278-aa1a-7e45e005503a)
+
 
 *Images Set 3 – From left to right: [cork stopper with cel shading](https://www.youtube.com/watch?v=vxhRINas5S0) (The Wolf Among Us), two applications of cel shading in metallic materials that convey the sought-after shininess (sources [here](https://www.unrealengine.com/marketplace/en-US/product/stylized-rendering-system-for-mobile-vr-cel-shader) and [here](https://www.reallusion.com/iclone/help/iclone5/pro/10_scene/atmosphere/using_toon_shader.htm))*
 
