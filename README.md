@@ -39,7 +39,6 @@ Since the project already had a cork stopper, the next logical step was to devel
 ![corkscrew(4)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/ff76d9f9-15e6-4636-8d92-0a793817b589)
 ![corkscrew_model(8)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/7dd16683-2e3b-4892-8252-181d2fbb2a26)
 
-
 *Images Set 2 – From left to right: [real stainless steel](https://eagletube.com/about-us/news/stainless-steel-characteristics/), [real metallic corkscrew](https://www.theodorebruceauctions.com.au/auction-lot/an-antique-nickel-plate-english-roundlet-travelli_48F4A2EBE9), [3D model with metallic material](https://www.youtube.com/watch?v=NIn421hiFrc)*
 
 ## **Technical Challenges**
@@ -48,13 +47,13 @@ The choice of cork and metal, two contrasting materials, gave way to multiple te
 
 A - A stylised cork **material using procedural noise** - As previously mentioned, this challenge had in mind the uneven and natural looking surface of the cork material.
 
-B - Non-photorealistic lighting / shading model with silhouette - The main lighting/shading for this project was based on a stylised, non-photorealistic model, namely, the **Cel shading model**. Visual references for the final product were taken from the video game industry and other online models:
+B - Non-photorealistic lighting / shading model with silhouette - The main lighting/shading for this project was based on a stylised, non-photorealistic model, namely, the **cel shading model**. Visual references for the final product were taken from the video game industry and other online models:
 
 ![wau(4)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/7ad4290b-4cb5-40b0-b024-dd78df17fbeb)
 ![cel_unreal(1)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/50eef4fe-cf8a-4ff5-a3d8-7bdab07661ae)
 ![Using_Toon_052](https://github.com/zorrocrisis/ShaderProject/assets/118909502/13de1655-ef18-4278-aa1a-7e45e005503a)
 
-*Images Set 3 – From left to right: [cork stopper with cel shading](https://www.youtube.com/watch?v=vxhRINas5S0) (The Wolf Among Us), two applications of cel shading in metallic materials that convey the sought-after shininess (sources [here](https://www.unrealengine.com/marketplace/en-US/product/stylized-rendering-system-for-mobile-vr-cel-shader) and [here](https://www.reallusion.com/iclone/help/iclone5/pro/10_scene/atmosphere/using_toon_shader.htm))*
+*Images Set 3 – From left to right: [cork stopper with cel shading used in a video game (The Wolf Among Us)](https://www.youtube.com/watch?v=vxhRINas5S0), two applications of cel shading in metallic materials that convey the sought-after shininess (sources [here](https://www.unrealengine.com/marketplace/en-US/product/stylized-rendering-system-for-mobile-vr-cel-shader) and [here](https://www.reallusion.com/iclone/help/iclone5/pro/10_scene/atmosphere/using_toon_shader.htm))*
 
 C - Real-time manipulation of objects with mouse and keyboard
 
