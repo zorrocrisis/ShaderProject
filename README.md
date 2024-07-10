@@ -50,7 +50,7 @@ A - A stylised cork **material using procedural noise** - As previously mentione
 
 B - Non-photorealistic lighting / shading model with silhouette - The main lighting/shading for this project was based on a stylised, non-photorealistic model, namely, the **Cel shading model**. Visual references for the final product were taken from the video game industry and other online models:
 
-![wau(5)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/3831bfca-fc8e-4a78-88a8-019f2be65e75)
+![wau(4)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/7ad4290b-4cb5-40b0-b024-dd78df17fbeb)
 ![cel_unreal(1)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/50eef4fe-cf8a-4ff5-a3d8-7bdab07661ae)
 ![Using_Toon_052](https://github.com/zorrocrisis/ShaderProject/assets/118909502/13de1655-ef18-4278-aa1a-7e45e005503a)
 
