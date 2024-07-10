@@ -36,7 +36,7 @@ Firstly, what better way to represent my home country of Portugal than to develo
 Since the project already had a cork stopper, the next logical step was to develop a corkscrew! This corkscrew was planned to be mostly made from metal - more specifically, from stainless steel, which is the preferred material for household kitchen appliances, having a characteristic smoothness and shininess which was attempted to be reproduced (in a stylised version). The following images represent visual references for the material and object desired. The image on the far right is in fact a 3D model of a corkscrew, similar to what is proposed to be developed.
 
 ![stainless_steel4](https://github.com/zorrocrisis/ShaderProject/assets/118909502/b9675617-58a0-4e39-bacd-a5e726a33b04)
-![corkscrew(2)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/bd53eb32-a525-4dc5-9d21-5c62e674dec0)
+![corkscrew(3)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/137ff939-99e1-434c-9c79-a45f18d3c788)
 ![corkscrew_model(3)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/f6b5cce4-24ed-4129-9f06-aff9a1825e7f)
 
 
