@@ -1,9 +1,14 @@
 ## **Shader Project**
 
-This document aims to detail the proposed goals, technical challenges, development plan and execution of the a shader project of the Computer Graphics in Games course, which took place in Instituto Superior Técnico, University of Lisbon.
+The goal of this shader project was to implement a program capable of showcasing stylised materials and lighting models, similarly to a game engine. 
+IMAGE
 
 
-## **Installation**
+Developed under two weeks, from January 1st to January 15th 2023, this project constituted the final evaluation component of the 2023 edition of the Computer Graphics in Games course, talking place in Instituto Superior Técnico, University of Lisbon.
+
+The following document indicates how to execute and control the program, also describing in further detail its development: from the initial references to the encountered technical challenges. 
+
+## **Build and Execution**
 
 To install this project, follow these steps:
 
@@ -12,50 +17,54 @@ To install this project, follow these steps:
 4. Build the project
 5. Start the project (executable should be in Build > Release/Debug)
 
+## **Controls/Features**
+
++ For example, the HUD could indicate a specific key that, when pressed, would vary the parameters of the cel shading in real-time (which in turn could also be indicated in the transparent overlays). The user could then rotate the objects, pull them far apart or closer together, while varying these parameters, in order to reach a final scene they can be pleased with (almost like a demonstration of a shader program to a potential employer/client). Lastly, once the final scene is achieved, one could save a snapshot (which could include all the registered parameters in the HUD) for future reference and comparison.
+
 ## **Materials and Objects**
 
-Two different materials were planned to be developed throughout the course of this project: cork and metal. The choice of these contrasting materials gives way to multiple technical challenges, which are also pointed out later in this document.
+Two different materials were planned to be developed throughout the course of this project: cork and metal.
 
-Firstly, what better way to represent Portugal than to develop such a widely known and proudly portuguese material like cork? The goal is to make a stylised/semi-realistic solid material with procedural noise to convey
-the natural look of cork, which happens to be very uneven and rough. Regarding its application, the cork material will be used to make a cork stopper (sometimes simply called “cork”, as well). The following images demonstrate the overall desired look of the material’s surface and its usage in a 3D model of a cork stopper.
+Firstly, what better way to represent my home country of Portugal than to develop such a widely known and proudly portuguese material like cork? The goal was to make a stylised/semi-realistic solid material with procedural noise to convey the natural look of cork, which happens to be very uneven and rough. Regarding its application, the cork material was used to make a cork stopper. The following images demonstrate the overall desired look of the material’s surface and its usage in a 3D model of a cork stopper.
 
-![Cork](https://github.com/zorrocrisis/ShaderProject/assets/118909502/ae93e098-e915-406a-bb1e-da4370413358)
+![Cork(1)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/c39e58ac-0b17-41d1-87ce-d4fdc303b10a)
+
 
 ![imagem](https://github.com/zorrocrisis/ShaderProject/assets/118909502/55e3e966-dfe2-4684-88bf-cf8f6934cc67)
 ![imagem](https://github.com/zorrocrisis/ShaderProject/assets/118909502/c530acfd-91ac-4472-b80c-f06f5cc6ae83)
 
 Image Set 1 – From left to right: real cork, real cork stopper, 3D model with procedural noise material.
 
-Secondly, since we already have a cork stopper, the next logical step is to develop a corkscrew! This corkscrew would be mostly made from metal - more specifically, from stainless steel, which is the preferred material for household kitchen appliances and has a characteristic smoothness and shininess that is aimed to be reproduced (in a stylised version). The following images represent visual references for the material and object desired. The image on the far right is in fact a 3D model of a corkscrew, similar to what is proposed to be developed.
+Since the project already had a cork stopper, the next logical step was to develop a corkscrew! This corkscrew was planned to be mostly made from metal - more specifically, from stainless steel, which is the preferred material for household kitchen appliances, having a characteristic smoothness and shininess which was attempted to be reproduced (in a stylised version). The following images represent visual references for the material and object desired. The image on the far right is in fact a 3D model of a corkscrew, similar to what is proposed to be developed.
+
+
 
 ## **Technical Challenges**
 
-Considering the previously indicated information about the objects and materials proposed to be developed, we can list the technical challenges expected to be encountered and a few extra suggested implementations:
+The choice of cork and metal, two contrasting materials, gave way to multiple technical challenges which were set as milestones for the project:
 
-A - Stylised solid material using procedural noise - As previously mentioned, this challenge would be specifically for the making of the uneven and natural looking surface of the cork material.
+A - A stylised cork **material using procedural noise** - As previously mentioned, this challenge had in mind the uneven and natural looking surface of the cork material.
 
-B - Non-photorealistic lighting / shading model with silhouette - The main lighting/shading for this project is based on a stylised, non-photorealistic model, namely, the Cel shading model. Visual references for what is desired can be taken from the video game industry and other online models:
+B - Non-photorealistic lighting / shading model with silhouette - The main lighting/shading for this project was based on a stylised, non-photorealistic model, namely, the **Cel shading model**. Visual references for what the final product were taken from the video game industry and other online models:
 
-C - Real-time manipulation of objects with mouse and keyboard;
+C - Real-time manipulation of objects with mouse and keyboard
 
-D - Scene graph integration of a Head-Up Display (HUD), e.g. transparent overlays;
+D - Scene graph integration of a Head-Up Display (HUD) with transparent overlays
 
-E - Saving a snapshot of the application to a known image file format;
+E - Snapshot saving of the application to a known image file format
 
-+ These last three challenges would allow the scene to be fully explored and interacted with, going hand in hand to showcase the user the different techniques implemented and the diversity of the program. For example, the HUD could indicate a specific key that, when pressed, would vary the parameters of the cel shading in real-time (which in turn could also be indicated in the transparent overlays). The user could then rotate the objects, pull them far apart or closer together, while varying these parameters, in order to reach a final scene they can be pleased with (almost like a demonstration of a shader program to a potential employer/client). Lastly, once the final scene is achieved, one could save a snapshot (which could include all the registered parameters in the HUD) for future reference and comparison.
+These last three challenges allow the scene to be fully explored and interacted with, going hand in hand to showcase the different techniques implemented and the diversity of the program.
+
+## **Development Details**
 
 
-## **Development Plan**
-This project was accomplished in a time frame of two weeks, in the beginning of January 2023.
 
+## **Authors and Acknowledgment**
+
+This shader project was developed by **[Miguel Belbute (zorrocrisis)](https://github.com/zorrocrisis)**.
+
+The initial code was contributed by **[Prof. Carlos Martinho](https://fenix.tecnico.ulisboa.pt/homepage/ist14181)**
 
 ## **License**
 
 Shader Project is released under the Attribution 4.0 International License. See the **[LICENSE](https://creativecommons.org/licenses/by/4.0/)** file for details.
-
-## **Authors and Acknowledgment**
-
-Project Title was created by **[Miguel Belbute (zorrocrisis)](https://github.com/zorrocrisis)**.
-
-The initial code was contributed by **[Prof. Carlos Martinho](https://fenix.tecnico.ulisboa.pt/homepage/ist14181)**
-
