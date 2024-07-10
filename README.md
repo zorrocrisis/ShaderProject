@@ -31,7 +31,7 @@ Firstly, what better way to represent my home country of Portugal than to develo
 ![cork_stopper(2)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/e1ba99e5-1e3f-483c-87ef-6ce3cd2ee186)
 ![cork_stopper_model(3)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/ecd45a71-8e0c-48f2-92ac-56c460a71123)
 
-Image Set 1 – From left to right: [real cork material](https://en.wikipedia.org/wiki/Cork_(material)#/media/File:Cork.jpg), real cork stopper, [3D model with procedural noise material](https://sketchfab.com/3d-models/champagne-cork-ab6482bccb084488b8fdaae82d67ce88).
+*Image Set 1 – From left to right: [real cork material](https://en.wikipedia.org/wiki/Cork_(material)#/media/File:Cork.jpg), real cork stopper, [3D model with procedural noise material](https://sketchfab.com/3d-models/champagne-cork-ab6482bccb084488b8fdaae82d67ce88)*
 
 Since the project already had a cork stopper, the next logical step was to develop a corkscrew! This corkscrew was planned to be mostly made from metal - more specifically, from stainless steel, which is the preferred material for household kitchen appliances, having a characteristic smoothness and shininess which was attempted to be reproduced (in a stylised version). The following images represent visual references for the material and object desired. The image on the far right is in fact a 3D model of a corkscrew, similar to what is proposed to be developed.
 
