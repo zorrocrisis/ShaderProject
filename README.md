@@ -2,9 +2,7 @@
 
 The goal of this shader project was to implement a program capable of showcasing stylised materials and lighting models, similarly to a game engine. 
 
-
-IMAGE/GIF OF PROGRAM
-
+![Shader](https://github.com/user-attachments/assets/783108eb-4f54-4aa7-b1e3-7f94440867c4)
 
 Developed under two weeks, from January 1st to January 15th 2023, this project constituted the final evaluation component of the 2023 edition of the Computer Graphics in Games course, talking place in Instituto Superior Técnico, University of Lisbon.
 
@@ -16,8 +14,7 @@ To install this project, follow these steps:
 
 1. Clone the repository: **`git clone https://github.com/zorrocrisis/ShaderProject`**
 2. Open the ShaderProject.snl solution using Visual Studio
-4. Build the project
-5. Start the project (executable should be in Build > Release/Debug)
+4. Press Ctrl + F5 to execute the program
 
 ## **Controls**
 
