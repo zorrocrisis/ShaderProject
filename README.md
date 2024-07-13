@@ -22,25 +22,25 @@ To install this project, follow these steps:
 ## **Controls**
 
 Camera:
-P - Switch between projection types - orthographic or perspective.
-C - Change active camera.
-SCROLL WHEEL - zooms in or out when in projection perspective.
-LMB (HOLD) - While holding the LMB (left mouse button), dragging the mouse moves the current active camera.
+- P - Switch between projection types - orthographic or perspective.
+- C - Change active camera.
+- SCROLL WHEEL - zooms in or out when in projection perspective.
+- LMB (HOLD) - While holding the LMB (left mouse button), dragging the mouse moves the current active camera.
 
 Selection and Real Time Manipulation:
-RMB (TOGGLE) - Press the RMB (right mouse button) once over a valid object to select it. After selecting, moving the mouse moves the object. You can move the camera freely (with LMB) while RMB is toggled on. You can also use the scrollwheel to vary the "depth" of the object's position. Press RMB again to unselect the object.
-UP/DOWN arrows - Positive/negative rotation along the y axis of the selected object.
-LEFT/RIGHT arrows - Positive/negative rotation along the x axis of the selected object.
-./, - Positive/negative rotation along the z axis of the selected object (period/comma).
+- RMB (TOGGLE) - Press the RMB (right mouse button) once over a valid object to select it. After selecting, moving the mouse moves the object. You can move the camera freely (with LMB) while RMB is toggled on. You can also use the scrollwheel to vary the "depth" of the object's position. Press RMB again to unselect the object.
+- UP/DOWN arrows - Positive/negative rotation along the y axis of the selected object.
+- LEFT/RIGHT arrows - Positive/negative rotation along the x axis of the selected object.
+- ./, - Positive/negative rotation along the z axis of the selected object (period/comma).
 
 MISC:
-M - change cork texture (when cork stopper is selected).
-I - randomize light position.
-A - change ambient factor.
-L - Lock mouse cursor inside window (like an FPS).
-U - Unlock mouse cursor.
-F - Take screenshot that will be saved as a .png format in the ../assets/screenshots folder.
-Esc - Close the window and shut down the application.
+- M - change cork texture (when cork stopper is selected).
+- I - randomize light position.
+- A - change ambient factor.
+- L - Lock mouse cursor inside window (like an FPS).
+- U - Unlock mouse cursor.
+- F - Take screenshot that will be saved as a .png format in the ../assets/screenshots folder.
+- Esc - Close the window and shut down the application.
 
 
 ## **Materials and Objects**
@@ -125,7 +125,7 @@ Assets:
 
 ## **Authors and Acknowledgment**
 
-This shader project was developed by **[Miguel Belbute (zorrocrisis)](https://github.com/zorrocrisis)**.
+This shader project was developed by **[Miguel Belbute (zorrocrisis)](https://github.com/zorrocrisis)**
 
 The initial code was contributed by **[Prof. Carlos Martinho](https://fenix.tecnico.ulisboa.pt/homepage/ist14181)**
 
