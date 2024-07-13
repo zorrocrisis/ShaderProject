@@ -108,6 +108,8 @@ Delivery Day (13/01/2023):
 - Performed finishing touches, solved bugs.
 
 ## **Program's Dependencies and Assets**
+
+Dependencies:
 - assimp version 5.2.5
 - glew v7.0
 - glfw v3.3
