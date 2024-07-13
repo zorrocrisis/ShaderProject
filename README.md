@@ -73,7 +73,7 @@ B - Non-photorealistic lighting / shading model with silhouette - The main light
 
 ![wau(4)](https://github.com/user-attachments/assets/c813e2f6-5d4b-4a19-a548-a1131ac03c15)
 ![cel_unreal(1)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/50eef4fe-cf8a-4ff5-a3d8-7bdab07661ae)
-![Using_Toon_052](https://github.com/zorrocrisis/ShaderProject/assets/118909502/13de1655-ef18-4278-aa1a-7e45e005503a)
+![cork_stopper_model(2)](https://github.com/user-attachments/assets/0183e811-fc65-4c7b-b94c-20543f8dcf72)
 
 *Images Set 3 – From left to right: [cork stopper with cel shading used in a video game (The Wolf Among Us)](https://www.youtube.com/watch?v=vxhRINas5S0), two applications of cel shading in metallic materials that convey the sought-after shininess (sources [here](https://www.unrealengine.com/marketplace/en-US/product/stylized-rendering-system-for-mobile-vr-cel-shader) and [here](https://www.reallusion.com/iclone/help/iclone5/pro/10_scene/atmosphere/using_toon_shader.htm))*
 
