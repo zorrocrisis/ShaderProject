@@ -4,7 +4,8 @@ The goal of this shader project was to implement a program capable of showcasing
 
 ![Shader](https://github.com/user-attachments/assets/783108eb-4f54-4aa7-b1e3-7f94440867c4)
 ![Shader1(1)](https://github.com/user-attachments/assets/4446f99b-1c52-4820-b756-bd8ea2b8bc42)
-![Shader2(1)](https://github.com/user-attachments/assets/d802d2c2-e727-4b63-b399-a754ae9e6ac2)
+![Shader2(2)](https://github.com/user-attachments/assets/e750f443-7834-46ff-9e9f-72aa72438a6b)
+
 
 
 
