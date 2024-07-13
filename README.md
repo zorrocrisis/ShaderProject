@@ -4,7 +4,7 @@ The goal of this shader project was to implement a program capable of showcasing
 
 ![Shader](https://github.com/user-attachments/assets/783108eb-4f54-4aa7-b1e3-7f94440867c4)
 ![Shader1(1)](https://github.com/user-attachments/assets/4446f99b-1c52-4820-b756-bd8ea2b8bc42)
-![Shader2(4)](https://github.com/user-attachments/assets/f0ad032d-3354-43a4-92da-1c091bb6fac8)
+![Shader2(4)](https://github.com/user-attachments/assets/606033da-6f70-4a64-b183-2210a78161c6)
 ![Shader3(3)](https://github.com/user-attachments/assets/ef773268-0b85-41b8-8e78-bf105a770b66)
 
 Developed under two weeks, from January 1st to January 15th 2023, this project constituted the final evaluation component of the 2023 edition of the Computer Graphics in Games course, talking place in Instituto Superior Técnico, University of Lisbon.
@@ -73,7 +73,7 @@ B - Non-photorealistic lighting / shading model with silhouette - The main light
 
 ![wau(4)](https://github.com/user-attachments/assets/c813e2f6-5d4b-4a19-a548-a1131ac03c15)
 ![cel_unreal(1)](https://github.com/zorrocrisis/ShaderProject/assets/118909502/50eef4fe-cf8a-4ff5-a3d8-7bdab07661ae)
-![cork_stopper_model(2)](https://github.com/user-attachments/assets/0183e811-fc65-4c7b-b94c-20543f8dcf72)
+![Using_Toon_052](https://github.com/user-attachments/assets/2a0df7e1-763c-4865-9980-8f2e1d0aad14)
 
 *Images Set 3 – From left to right: [cork stopper with cel shading used in a video game (The Wolf Among Us)](https://www.youtube.com/watch?v=vxhRINas5S0), two applications of cel shading in metallic materials that convey the sought-after shininess (sources [here](https://www.unrealengine.com/marketplace/en-US/product/stylized-rendering-system-for-mobile-vr-cel-shader) and [here](https://www.reallusion.com/iclone/help/iclone5/pro/10_scene/atmosphere/using_toon_shader.htm))*
 
