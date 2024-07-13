@@ -4,9 +4,8 @@ The goal of this shader project was to implement a program capable of showcasing
 
 ![Shader](https://github.com/user-attachments/assets/783108eb-4f54-4aa7-b1e3-7f94440867c4)
 ![Shader1(1)](https://github.com/user-attachments/assets/4446f99b-1c52-4820-b756-bd8ea2b8bc42)
+![Shader2](https://github.com/user-attachments/assets/b8fad1a6-ac0b-4028-b15d-b5973ea43467)
 
-
-![Shader2](https://github.com/user-attachments/assets/2747b06a-3156-4b87-9f3d-62a39c703fe3)
 
 Developed under two weeks, from January 1st to January 15th 2023, this project constituted the final evaluation component of the 2023 edition of the Computer Graphics in Games course, talking place in Instituto Superior Técnico, University of Lisbon.
 
