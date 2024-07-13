@@ -90,14 +90,14 @@ These last three challenges allow the scene to be fully explored and interacted 
 First Week (02/01/2023 – 07/01/2023):
 - The models for the two objects were created in Blender and were successfully implemented in the scene, inspite of some initial issues regarding face culling;
 - The cel shading model was developed according to schedule, although some techniques (like the ones used to draw the silhouettes) were modified and perfected along the second week - objective B;
-- Unfortunately, even with multiple attempts, the creation of the cork material was not finished until the end of the first week, being this the only objecƟve not performed according to schedule;
+- Unfortunately, even with multiple attempts, the creation of the cork material was not finished until the end of the first week, being this the only objective not performed according to schedule;
 - Before the weekend, an attempt was made to develop a way of taking screenshots of the application. The attempt was successful, but it could only export .tga format images, which is suboptimal;
 - Received feedback during practical classes (03/01/2022 and 06/01/2022);
 
 Second Week (08/01/2023 – 12/01/2023):
 - A mechanism for the real-time manipulation of the objects through mouse and keyboard inputs was implemented on the weekend and perfected during the first days of the week. Although the approach utili~sed is not optimal, it does present a suitable solution – objective C;
 - Another approach was used to try to fulfil the technical challenge of generating a stylised texture using procedural noise. This approach proved to be successful, despite the objective being due the week prior - objective A;
-- One other method for saving a screenshot of the application was investigated and developed. The applicaƟon can now save screenshots to a much more popular and easily accessable image forma (.png) – objective E;
+- One other method for saving a screenshot of the application was investigated and developed. The application can now save screenshots to a much more popular and easily accessable image forma (.png) – objective E;
 - Lastly, a simple HUD was created to help visualise and control what was happening in the scene. This HUD included camera information, selection information, real-time manipulation controls and the light position.
 Sadly, the lack of time did not allow further developments related to visualising shading parameters, for example - objective D;
 - Received feedback during practical classes (10/01/2022 and 13/01/2022);
@@ -108,17 +108,17 @@ Delivery Day (13/01/2023):
 - Performed finishing touches, solved bugs.
 
 ## **Program Dependencies and Assets**
-assimp version 5.2.5
-glew v7.0
-glfw v3.3
-glm v0.9.9
-stb_image v2.27 (header-file library)
-stb_image_write v1.16 (header-file library)
-freetype v2.12.1
+- assimp version 5.2.5
+- glew v7.0
+- glfw v3.3
+- glm v0.9.9
+- stb_image v2.27 (header-file library)
+- stb_image_write v1.16 (header-file library)
+- freetype v2.12.1
 
-arial.ttf (font file downloaded separately. Read by freetype)
-corkscrew_smooth.obj
-corkstopper_smooth.obj
+- arial.ttf (font file downloaded separately. Read by freetype)
+- corkscrew_smooth.obj
+- corkstopper_smooth.obj
 
 ## **Authors and Acknowledgment**
 
