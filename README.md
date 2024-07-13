@@ -33,7 +33,7 @@ Selection and Real Time Manipulation:
 - LEFT/RIGHT arrows - Positive/negative rotation along the x axis of the selected object.
 - ./, - Positive/negative rotation along the z axis of the selected object (period/comma).
 
-MISC:
+Miscellaneous:
 - M - change cork texture (when cork stopper is selected).
 - I - randomize light position.
 - A - change ambient factor.
