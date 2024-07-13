@@ -2,8 +2,8 @@
 
 The goal of this shader project was to implement a program capable of showcasing stylised materials and lighting models, similarly to a game engine. 
 
-![Shader](https://github.com/user-attachments/assets/783108eb-4f54-4aa7-b1e3-7f94440867c4)
 ![Shader1](https://github.com/user-attachments/assets/1ff8583a-60ae-4fee-b611-04f7821a030d)
+![Shader](https://github.com/user-attachments/assets/783108eb-4f54-4aa7-b1e3-7f94440867c4)
 ![Shader2](https://github.com/user-attachments/assets/2747b06a-3156-4b87-9f3d-62a39c703fe3)
 
 Developed under two weeks, from January 1st to January 15th 2023, this project constituted the final evaluation component of the 2023 edition of the Computer Graphics in Games course, talking place in Instituto Superior Técnico, University of Lisbon.
