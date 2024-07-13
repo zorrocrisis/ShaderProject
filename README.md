@@ -107,7 +107,7 @@ Delivery Day (13/01/2023):
 - Fine tuned parameters and code structure;
 - Performed finishing touches, solved bugs.
 
-## **Program Dependencies and Assets**
+## **Program's Dependencies and Assets**
 - assimp version 5.2.5
 - glew v7.0
 - glfw v3.3
@@ -116,6 +116,7 @@ Delivery Day (13/01/2023):
 - stb_image_write v1.16 (header-file library)
 - freetype v2.12.1
 
+Assets:
 - arial.ttf (font file downloaded separately. Read by freetype)
 - corkscrew_smooth.obj
 - corkstopper_smooth.obj
