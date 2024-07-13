@@ -3,7 +3,8 @@
 The goal of this shader project was to implement a program capable of showcasing stylised materials and lighting models, similarly to a game engine. 
 
 ![Shader](https://github.com/user-attachments/assets/783108eb-4f54-4aa7-b1e3-7f94440867c4)
-![Shader1](https://github.com/user-attachments/assets/2e3b7d03-0265-4af9-8f14-a2443fbdfffe)
+![Shader1(1)](https://github.com/user-attachments/assets/4446f99b-1c52-4820-b756-bd8ea2b8bc42)
+
 
 ![Shader2](https://github.com/user-attachments/assets/2747b06a-3156-4b87-9f3d-62a39c703fe3)
 
